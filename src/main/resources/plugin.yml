@@ -1,0 +1,6 @@
+name: ServerSync2.0
+version: '${project.version}'
+main: org.jacob.spigot.plugins.serversync2.ServerSync2
+api-version: '1.21'
+depend:
+  - ProtocolLib
